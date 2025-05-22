@@ -10,7 +10,7 @@ This Power BI dashboard combines HR and Netflix datasets to demonstrate skills i
 - Sync slicers across both pages
 
 ## 📁 Files
-- `HR_Netflix_Capstone.pbix`: Final dashboard
+- `Capstone_Project.pbix`: Final dashboard
 - `Data/`: Raw Excel & CSV data
 - `Screenshots/`: Sample visuals
 
